@@ -19,7 +19,7 @@ heroku/python
 ### Deploy to Heroku:
 Just Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/URL-Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanuw45/URL-Uploader-bot)
 
 
 ## Credits, and Thanks to
